@@ -34,7 +34,7 @@ public class Task4 {
 	}
 	
 	private static int convertCharFrom16to10(char c) {
-		int ascii_code = c + 0;
+		int ascii_code = (int)c;
 		if (ascii_code >= 48 && ascii_code <= 57)
 			return (ascii_code - 48);
 		if (ascii_code >= 65 && ascii_code <= 70)
