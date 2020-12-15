@@ -6,3 +6,10 @@ B32EFE   11742974
 60ED670   101635696
 It isn't a hex number
 NULL passed as a parameter
+
+
+***Task10 output***
+THE USER WITH THE NICKNAME koala757677 THIS MONTH WROTE 3 TIMES MORE COMMENTS THAN THE USER WITH THE NICKNAME croco181dile920 4 MONTHS AGO
+
+NULL passed as a parameter
+Text should only contain letters and numbers
