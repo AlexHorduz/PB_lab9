@@ -1,0 +1,8 @@
+***Task4 output***
+A67   2663
+3B6C   15212
+1CD84   118148
+B32EFE   11742974
+60ED670   101635696
+It isn't a hex number
+NULL passed as a parameter
